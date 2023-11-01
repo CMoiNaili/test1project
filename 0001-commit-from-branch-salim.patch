@@ -1,0 +1,20 @@
+From 9a268b0362b548cd92b3fe236a9d8a6c26c9d601 Mon Sep 17 00:00:00 2001
+From: salimattia1 <salimattia019@gmail.com>
+Date: Sun, 29 Oct 2023 17:37:35 +0000
+Subject: [PATCH 1/4] commit from branch salim
+
+---
+ project1 | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 160000 project1
+
+diff --git a/project1 b/project1
+new file mode 160000
+index 0000000..0195662
+--- /dev/null
++++ b/project1
+@@ -0,0 +1 @@
++Subproject commit 0195662a23ba675a99969cd2bd38bc92174a11ce
+-- 
+2.42.0.windows.2
+

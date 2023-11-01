@@ -1,0 +1,528 @@
+From f6f45e9ed17d65417a7e70dd8f404676548479c4 Mon Sep 17 00:00:00 2001
+From: SalimAttia1 <salimattia019@gmail.com>
+Date: Wed, 1 Nov 2023 19:06:13 +0000
+Subject: [PATCH 1/3] add new patch
+
+---
+ F266V2              |   1 +
+ history1,11,223.txt | 500 ++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 501 insertions(+)
+ create mode 160000 F266V2
+ create mode 100644 history1,11,223.txt
+
+diff --git a/F266V2 b/F266V2
+new file mode 160000
+index 0000000..bc1b1a2
+--- /dev/null
++++ b/F266V2
+@@ -0,0 +1 @@
++Subproject commit bc1b1a22a7882e0b60c7f0599dbefd833614606f
+diff --git a/history1,11,223.txt b/history1,11,223.txt
+new file mode 100644
+index 0000000..b1cb390
+--- /dev/null
++++ b/history1,11,223.txt
+@@ -0,0 +1,500 @@
++   75  gh pull
++   76  git pull
++   77  git status
++   78  git add tok 
++   79  git commit -m "tok"
++   80  git push origin kamel 
++   81  gh.exe login 
++   82  gh auth login --with-token  < tok 
++   83  echo $?
++   84  git push origin kamel 
++   85  cat tok
++   86  gh auth login --with-token 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
++   87  git push origin kamel 
++   88  git remote -v
++   89  cd ..
++   90  mkdir kimou 
++   91  cd kimou/
++   92  git clone https://github.com/salimattia/Testkamel.git
++   93  ls
++   94  cd Testkamel/
++   95  cp ../../git/tok .
++   96  git add .
++   97  git commit -m "tok"
++   98  git push origin main 
++   99  gh auth login --with-token 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
++  100  git push origin main 
++  101  gh auth login --with-token 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
++  102  git push origin main 
++  103  gh auth login --with-token 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
++  104  gh auth login --with-token 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m
++  105  gh auth login --with-token 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
++  106  gh auth login --with-token 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
++  107  git push origin main 
++  108  gh auth login --with-token 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
++  109  gh.exe  auth login --with-token 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
++  110  git push origin main 
++  111  gh login 
++  112  git autth
++  113  gh autth
++  114  gh auth
++  115  gh auth token
++  116  gh auth refresh
++  117  gh auth logout
++  118  gh.exe  auth login --with-token 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
++  119  gh auth token
++  120  gh.exe  auth login --with-token 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
++  121  gh.exe  auth login 
++  122  mintty.exe 
++  123  gh.exe  auth login --with-token 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
++  124  gh.exe  auth login --with-token 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
++  125  gh.exe  auth login --with-token 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
++  126  gh.exe  auth login --with-token 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
++  127  git push origin main 
++  128  gh.exe  auth loout
++  129  gh.exe  auth login --with-token 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
++  130  git push origin main 
++  131  vim .git/config 
++  132  git config --global user.name "salimattia"
++  133  git config --global user.name "salimattia18@gmailcom"
++  134  [200~git config --global user.email "salimattia18@gmail.com"
++  135  git config --global user.email "salimattia18@gmail.com"
++  136  git config --global user.name "salimattia18@gmailcom"
++  137  git config --global user.email "salimattia18@gmail.com"
++  138  git config --global credential.helper store
++  139  gh.exe  auth login --with-token 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
++  140  git push origin main 
++  141  git remote -v
++  142  vim .git/config 
++  143  cd ..
++  144  mkdir uuuu
++  145  cd uuuu/
++  146  git clone https://github.com/salimattia/Testkamel.git
++  147  echo yyyy > q
++  148  git add q 
++  149  git commit -m "qqqqqqqqqqqqqqqqq"
++  150  git push origin main 
++  151  whoami.exe 
++  152  WhoUses.exe 
++  153  git clone https://github.com/salimattia/Testkamel.git
++  154  git push origin main 
++  155  grep -rin SalimAttia1  .
++  156  grep -rin SalimAttia1  . --color
++  157  vim 
++  158  cd Testkamel/
++  159  git status 
++  160  echo qq > qqqqqqqqqqqqqqqqqqqqqqq
++  161  git commit -m "qqqqqqqqqqqqqqq"
++  162  git add .
++  163  git commit -m "qqqqqqqqqqqqqqq"
++  164  git push origin main 
++  165  gh.exe  auth login --with-token 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
++  166  git push origin main 
++  167  git status 
++  168  git branch 
++  169  git push origin main 
++  170  history 
++  171  history > git_history.txt
++  172  cat git_history.txt 
++  173  cat git_history.txt 
++  174  history >> git_history.txt
++  175  cat git_history.txt 
++  176  ls -lrth
++  177  cp git_history.txt /history >> git_history.txt
++  178  pwd
++  179  tac git_history.txt 
++  180  cat git_history.txt 
++  181  gh login
++  182  gh auth login
++  183  vim ./git_history.txt 
++  184  cat git_history.txt 
++  185  vim .git/config 
++  186  whoami.exe 
++  187  who.exe 
++  188  WhoUses.exe 
++  189  whoami.exe 
++  190  git status 
++  191  git add .
++  192  git status 
++  193  git commit -m "file history" 
++  194  git status 
++  195  git branch 
++  196  git push origin main 
++  197  git config --global credential.helper store
++  198  git push origin main 
++  199  git config --global user.name "salimattia"
++  200  git config --global user.name "salimattia18@gmailcom"
++  201  git init 
++  202  git branch 
++  203  git branch kamel
++  204  git branch 
++  205  git chekcout kamel
++  206  git checkout kamel 
++  207  git branch 
++  208   history > git_history.txt
++  209  git staus 
++  210  git status 
++  211  git add git_history.txt 
++  212  gir status 
++  213  git status 
++  214  git add 
++  215  git add .
++  216  git commit -m "history from branch kamel"
++  217  git push origin kamel 
++  218  gh repo clone salimattia/Testkamel
++  219  h auth login
++  220  gh auth login 
++  221  gh auth login .git/
++  222  gh repo clone salimattia/Testkamel
++  223  export GH_TOKEN=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
++  224  gh repo clone salimattia/Testkamel
++  225  git branch 
++  226  git status 
++  227  cat Testkamel/
++  228  cd Testkamel/
++  229  ls
++  230  git branch 
++  231  git push origin main 
++  232  vim .git/config 
++  233  ls
++  234  cat salim.txt 
++  235  cat naili.c 
++  236  cat test.c 
++  237  cat .git/
++  238  cd .git/
++  239  ls
++  240  cd info/
++  241  ls
++  242  cd exclude 
++  243  cat ex
++  244  cat exclude 
++  245  cat exclude exclude 
++  246  cat exclude tac exclude 
++  247  cat exclude 
++  248  cat exclude 
++  249  git log
++  250  git status 
++  251  git status 
++  252  cd ..
++  253  cd ..*
++  254  cd ..
++  255  cd ..
++  256  ls
++  257  rm -rf Testkamel/
++  258  git status
++  259  echo uuuuuuuuu 
++  260  echo uuuuuuuuu k
++  261  git add k
++  262  git status
++  263  echo uuuuuuuuu  >k
++  264  git add k
++  265  git commit -m "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"
++  266  git push origin kamel 
++  267  grep -rin  SalimAttia1
++  268  grep -rin  "SalimAttia1" --color  .
++  269  sudo nano git_history.txt 
++  270  vim git_history.txt 
++  271  vim git_history.txt 
++  272  vim ./.git/logs/HEAD
++  273  vim git_history.txt 
++  274  vim git_history.txt 
++  275  vim ./git_history.txt 
++  276  git rm  
++  277  git rm  git_history.txt
++  278  git status
++  279  git push origin kamel 
++  280  grep -rin  "SalimAttia1" --color  .
++  281  grep -rin  "SalimAttia1" --color  . | grep -v salimattia18
++  282  git push origin kamel 
++  283  git push origin kamel 
++  284  whoami.exe 
++  285  git push origin kamel 
++  286  strace.exe git push origin kamel 
++  287  strace.exe git push origin kamel  | tee /tmp/ooo
++  288  vim /tmp/ooo 
++  289  grep -rin salim /tmp/ooo 
++  290  git push origin kamel 
++  291  git push origin 
++  292  git push --set-upstream origin kamel
++  293  git 
++  294  vim ~/.gitconfig 
++  295  vim ~/.git/config 
++  296  git push origin kamel 
++  297  grep -rin SalimAttia1 
++  298  grep -rin SalimAttia1 ~/.git
++  299  grep -rin SalimAttia1 ~/.git --color
++  300  grep -rin SalimAttia1  . | grep -v 
++  301  grep -rin SalimAttia1 ~/.git --color
++  302  grep -rin SalimAttia1 ~/.git --color | grep -v 18
++  303  git push origin kamel 
++  304  pwd
++  305  ls ../
++  306  ls    .
++  307  cd ..
++  308  ls 
++  309  mv Testkamel/ /tmp/
++  310  pwd
++  311  ls
++  312  cp -rf Testkamel/ /tmp/
++  313  cd /tmp/Testkamel/
++  314  git push origin kamel 
++  315  gh auth login
++  316  pwd
++  317  git branch 
++  318  git checkout main 
++  319  git push origin kamel 
++  320  gh auth login 
++  321  git config --global credential.helper store
++  322  git credential reject
++  323  git credential approve
++  324  git config credential.helper store
++  325  git credential reject
++  326  git credential approve
++  327  git config credential.helper store
++  328  git credential reject
++  329  git credential approve
++  330  gh repo clone salimattia/Testkamel
++  331  git push origin kamel 
++  332  [200~Username for 'https://github.com': your_username
++  333  Username for 'https://github.com': salimattia
++  334  gh auth login
++  335  ls
++  336  gh login with-token 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
++  337  history | grep gh
++  338  gh auth login with-token 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
++  339  gh auth login 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
++  340  gh auth login -t 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
++  341  gh auth login -p https with-token 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
++  342  git push origin kamel 
++  343  git checkout main 
++  344  git status 
++  345  git add .
++  346  ls
++  347  cd
++  348  git add .
++  349  ls -lrth
++  350  cd git/
++  351  git add .
++  352  git push origin kamel 
++  353  git checkout main 
++  354  ls
++  355  git status 
++  356  cat > salimmm
++  357  git status 
++  358  git add ?
++  359  git add .
++  360  git commit -m "neww commiit "
++  361  git push origin main
++  362  gh auth login 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
++  363  git push origin main 
++  364  git config --list 
++  365  git config --global user.name "salimattia"
++  366  git config --global user.email "salimattia18@gmail.com"
++  367  git remote -v
++  368  git push origin main 
++  369  ls
++  370  cd
++  371  cd 
++  372  pwd
++  373  rm -rf .git
++  374  git status
++  375  mkdir f266
++  376  cd f266/
++  377  git clone https://github.com/SalimAttia1/F266V2.git
++  378  echo iiiiiiiiiiii > qqqqqqqqqqqqqqqqqqqqqq
++  379  git add  .
++  380  git commit -m "zabboorrrrrrrrrrrrrrrrrrrrrrrr"
++  381  git status
++  382  cd F266V2/
++  383  echo iiiiiiiiiiii > qqqqqqqqqqqqqqqqqqqqqq
++  384  git commit -m "zap"
++  385  git add .
++  386  git commit -m "zap"
++  387  git push origin main 
++  388  ls
++  389  git branch 
++  390  git checkout -b kamelnaili 
++  391  cat > kamel.txt
++  392  cat kamel.txt 
++  393  git status 
++  394  git add .
++  395  git commit -m "first commit kamel"
++  396  git push origin kamelnaili 
++  397  ls
++  398  git branch 
++  399  git log 
++  400  git checkout main 
++  401  git cherry-pick 249799133234af5132a7ba48db970ef093de17e1
++  402  git push origin main 
++  403  git branch kamelnaili 
++  404  git branch 
++  405  git checkout kamelnaili 
++  406  cat > fichier.txt
++  407  git status 
++  408  git add ?
++  409  git add .
++  410  git status 
++  411  git commit -m "second commit"
++  412  git push origin kamelnaili 
++  413  git checkout main
++  414  git merge main kamelnaili 
++  415  git log
++  416  git push origin main 
++  417  cat > f266v2
++  418  git status 
++  419  git add .
++  420  git commit -m "commit lgi"
++  421  git push origin main 
++  422  git checkout kamelnaili 
++  423  gitk
++  424  git checkout main 
++  425  git log -p 
++  426  !
++  427  git checkout 
++  428  git checkout ka
++  429  git checkout kamelnaili 
++  430  git cherry-pick edf1e1f37a5a00b14a7ac5be78894eb4bd3350dd
++  431  git status 
++  432  git push origin kamelnaili 
++  433  cat > gitmerge
++  434  git status 
++  435  git add .
++  436  git push origin kamelnaili 
++  437  git commit -m "git merge " 
++  438  git push origin kamelnaili 
++  439  git checkout main 
++  440  git merge kamelnaili 
++  441  git push origin main 
++  442  pwd
++  443  git branch 
++  444  ls
++  445  cat kamel.txt 
++  446  pwd
++  447  pwd
++  448  git status 
++  449  git branch 
++  450  history 
++  451  history > histoty.txt 
++  452  ls 
++  453  cat histoty.txt 
++  454  git branch 
++  455  git status 
++  456  git add .
++  457  git commit -m "commit histiry file"
++  458  git push origin main 
++  459  git checkout kamelnaili 
++  460  git merge main 
++  461  git push origin kamelnaili 
++  462  ls
++  463  vim ~/.git-credentials 
++  464  vim ~/.bash_history 
++  465  ~/.bash_history > histotybash.txt
++  466  vim ~/.viminfo 
++  467  git status 
++  468  cat histotybash.txt 
++  469  cat todo.txt 
++  470  tod
++  471  vim ~/.config/
++  472  vim ~/.gitconfig 
++  473  git tag v1.0
++  474  git push origin v1.0
++  475  git branch 
++  476  gitk 
++  477  ssh kimo@192.168.251.6
++  478  ssh kimo@192.168.251.6
++  479  ipconfig 
++  480  ssh kimo@192.168.251.6
++  481  ps 
++  482  ls
++  483  ssh kimou@192.168.251.6
++  484  git clone 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
++  485  git clone 
++  486  git clone https://github.com/CMoiNaili/test1project.git
++  487  git auth login --withtoken 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
++  488  git auth login --with-token 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
++  489  gh auth login --with-token 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
++  490  git branch 
++  491  git branch -a 
++  492  cd ..
++  493  cd -
++  494  ls
++  495  cd test1project/
++  496  git branch -a 
++  497  git checkout salim 
++  498  ls
++  499  cat salim.txt 
++  500  cat > kamelsalimtxt
++  501  git config --global user.name "salimattia1"
++  502  git config --global user.email "salimattia019@gmail.com"
++  503  git login username -u -username -p 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 
++  504  gh auth login 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
++  505  ls
++  506  git branch 
++  507  cd git-
++  508  ls -lrth
++  509  cd tmp/
++  510  ls
++  511  cd
++  512  ls
++  513  cd Desktop/
++  514  ls -lrth
++  515  cd git
++  516  ls
++  517  cd project1/
++  518  ls
++  519  cd 
++  520  cd Desktop/
++  521  ls
++  522  cd git
++  523  ls
++  524  cd project1/
++  525  ls
++  526  cd ..
++  527  ls
++  528  cd ..
++  529  ls -lrth
++  530  cd ..
++  531  cd 
++  532  ls -lrth
++  533  cd f266/
++  534  ls 
++  535  cd F266V2/
++  536  ls
++  537  cd test1project/
++  538  ls
++  539  cd project1/
++  540  ls
++  541  cd ..
++  542  git branch -a
++  543  git checkout sal
++  544  git checkout salim 
++  545  ls 
++  546  ls -lrth
++  547  cd project1/
++  548  ls
++  549  cd ..
++  550  ls
++  551  git status 
++  552  git add .
++  553  git status 
++  554  git commit -m "commit from branch salim"
++  555  git push origin salim 
++  556  [200~git config --global user.name "SalimAttia1"
++  557  git config --global user.name "SalimAttia1"
++  558  git config --global user.email "salimattia019@gmail.com"
++  559  gh auth login  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
++  560  ls
++  561  cd project1/
++  562  ls
++  563  cd ..
++  564  git branch -a
++  565  git branch 
++  566  git push origin salim 
++  567  gh auth login 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
++  568  git push origin salim 
++  569  ls
++  570  git status 
++  571  git branch 
++  572  git log
++  573  history 
++  574  history > history1,11,223.txt
+-- 
+2.42.0.windows.2
+
